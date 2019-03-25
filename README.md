@@ -5,7 +5,7 @@
 
 In this project, I created an Amazon-like storefront with MySQL . The app will take in orders from customers and deplete stock from the store's inventory. My app is also capable of tracking product sales across a store's departments and then provide a summary of the highest-grossing departments in the store.
 
-Make sure you save and require the MySQL and Inquirer npm packages in your homework files--your app will need them for data input and storage.
+I made sure to save and require the MySQL and Inquirer npm packages in  files--the app will need them for data input and storage.
 
 
 ## List of Technologies used
